@@ -1,3 +1,5 @@
+*** THIS IS JUST A TEMPORARY FIX FOR KERNELS 5.15+ WITHOUT IPX SUPPORT ***
+
 # rtl8723ds
 Linux driver for RTL8723DS. This repo is derived from Realtek Version
 v5.1.1.5_20523_20161209_BTCOEX20161208-1212. It has been modified to
